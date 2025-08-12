@@ -1,2 +1,2 @@
-# DGLab-For-BloodySpell
-将DGLab和游戏嗜血印BloodySpell联动
+# YukikoNoGameBox
+通过DG-Lab-Game-Controller将DGLab和游戏联动
